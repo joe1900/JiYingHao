@@ -32,6 +32,6 @@ Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字
 
 您的Pages网站将使用您在[存储库设置]（https://github.com/joe1900/JiYingHao.github.io/settings）中选择的Jekyll主题的布局和样式。这个主题的名称保存在Jekyll`_config.yml`配置文件中。
 
-###支持或联系
+### 支持或联系
 
 Pages有问题吗？查看我们的[documentation]（https://help.github.com/categories/github-pages-basics/）或[contact support]（https://github.com/contact），我们将帮助您对其进行排序出来。
